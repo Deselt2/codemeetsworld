@@ -1,0 +1,9 @@
+	body {
+			font-family: 'Roboto', monospace;
+			color: rgba(255, 255, 255, 1);
+			background: #000000;
+		}
+
+		.eggs {
+			font-size: 50
+		}
